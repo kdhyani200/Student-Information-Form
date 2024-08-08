@@ -16,7 +16,7 @@ This project is a Swing-based Java application that allows users to input and st
 
 # Setup Instructions
 1. Clone the repository:
-      git clone https://github.com/your-username/student-information-form.git
+      git clone https://github.com/kdhyani200/Student-Information-Form.git
       cd student-information-form
 2. Set up MySQL Database:
 * Start your MySQL server.
